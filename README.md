@@ -10,3 +10,6 @@ srv  $  discord.gg/C6KDYq9Peb
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=GlyphAJJ)
 
+https://glyphajj.github.io/aj.github.io/
+https://glyphajj.github.io/aj2.github.io/
+https://glyphajj.github.io/aj3.github.io/
