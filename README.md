@@ -3,16 +3,12 @@
 
 ```csharp
 github.com/glyphajj
-dc   $  @glyphaj
-srv  $  discord.gg/C6KDYq9Peb
-site1 $ https://glyphajj.github.io/aj.github.io/
-site2 $https://glyphajj.github.io/aj2.github.io/
-site3 $https://glyphajj.github.io/aj3.github.io/
+dc    $  @glyphaj
+srv   $  discord.gg/C6KDYq9Peb
+site1 $  https://glyphajj.github.io/aj.github.io/
+site2 $  https://glyphajj.github.io/aj2.github.io/
+site3 $  https://glyphajj.github.io/aj3.github.io/
 ```
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=GlyphAJJ)
-
-https://glyphajj.github.io/aj.github.io/
-https://glyphajj.github.io/aj2.github.io/
-https://glyphajj.github.io/aj3.github.io/
