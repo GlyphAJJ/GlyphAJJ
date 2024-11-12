@@ -6,9 +6,9 @@ github.com/glyphajj
 dc    $  @glyphaj
 srv   $  discord.gg/C6KDYq9Peb
 
-site1 $  https://glyphajj.github.io/aj.github.io/
-site2 $  https://glyphajj.github.io/aj2.github.io/
-site3 $  https://glyphajj.github.io/aj3.github.io/
+site1 $  https://glyphajj.github.io/3.github.io/
+site2 $  https://glyphajj.github.io/2.github.io/
+site3 $  https://glyphajj.github.io/1.github.io/
 ```
 &zwnj; 
 &zwnj; 
